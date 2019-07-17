@@ -1,0 +1,2 @@
+Urán;Polónium;Voda;P1;P2
+50;2000

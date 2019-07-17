@@ -1,0 +1,10 @@
+C:\Users\Peter\Desktop\STROM\Programy\JadrovyPanel\JadrovyPanel\bin\Debug\JadrovyPanel.exe.config
+C:\Users\Peter\Desktop\STROM\Programy\JadrovyPanel\JadrovyPanel\bin\Debug\JadrovyPanel.exe
+C:\Users\Peter\Desktop\STROM\Programy\JadrovyPanel\JadrovyPanel\bin\Debug\JadrovyPanel.pdb
+C:\Users\Peter\Desktop\STROM\Programy\JadrovyPanel\JadrovyPanel\obj\Debug\JadrovyPanel.csprojAssemblyReference.cache
+C:\Users\Peter\Desktop\STROM\Programy\JadrovyPanel\JadrovyPanel\obj\Debug\JadrovyPanel.Properties.Resources.resources
+C:\Users\Peter\Desktop\STROM\Programy\JadrovyPanel\JadrovyPanel\obj\Debug\JadrovyPanel.csproj.GenerateResource.cache
+C:\Users\Peter\Desktop\STROM\Programy\JadrovyPanel\JadrovyPanel\obj\Debug\JadrovyPanel.csproj.CoreCompileInputs.cache
+C:\Users\Peter\Desktop\STROM\Programy\JadrovyPanel\JadrovyPanel\obj\Debug\JadrovyPanel.exe
+C:\Users\Peter\Desktop\STROM\Programy\JadrovyPanel\JadrovyPanel\obj\Debug\JadrovyPanel.pdb
+C:\Users\Peter\Desktop\STROM\Programy\JadrovyPanel\JadrovyPanel\obj\Debug\JadrovyPanel.ControlPanel.resources

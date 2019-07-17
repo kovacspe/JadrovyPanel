@@ -1,0 +1,2 @@
+1526;Yellow;True;Red;word;Povedz loï;2000;10;20;15;13;26
+9473;Yellow;True;Blue;word;Choï do;2000;2;5;90;13;46
